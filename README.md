@@ -1,4 +1,6 @@
 # Tea-Leaf-Disease-Detection
 
-Come back later...Work still in progress!
+Please check out the ipynb file!
+
+Note to self to do when have free time: Write a summary!
 
